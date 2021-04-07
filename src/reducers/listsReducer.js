@@ -2,16 +2,16 @@ import { CONSTANTS } from "../actions";
 
 const initialState = [
   {
-    title: "Akmaral",
+    title: "To do",
     id: `list-${0}`,
     cards: [
       {
         id: `card-${0}`,
-        text: "lalala",
+        text: "to be happy",
       },
       {
         id: `card-${1}`,
-        text: "gagag",
+        text: "to be thankful",
       },
     ],
   },
